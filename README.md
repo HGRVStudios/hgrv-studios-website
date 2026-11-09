@@ -1,15 +1,18 @@
-# HGRV Publications starter site
-Static, dependency-free website for GitHub Pages. No build step or paid hosting required.
+# HGRV Publications | GitHub Pages
 
-## Publish
-1. Create a public GitHub repository (for example `hgrv-publications`).
-2. Upload the files in this folder to the repository root.
-3. Under Settings → Pages, choose Deploy from a branch, `main`, `/ (root)`.
-4. Visit the URL GitHub provides. A custom domain can be added later after registration.
+Custom static site for HGRV Studios. No build process, database, or paid plugin needed.
 
-## Before public launch
-- Confirm the HGRV name and domain availability.
-- Replace placeholder brand status with live Etsy links when shops launch.
-- Update privacy and affiliate disclosures as tools and partnerships are introduced.
-- Add original researched articles with visible author/editorial credits and source documentation.
-- Set up branded domain email after buying the domain.
+## Contents
+- `index.html`: homepage and latest 3 article cards
+- `articles.html`: all articles directory
+- `home-living.html`, `technology.html`, `kitchen.html`, `workshop.html`, `outdoors.html`: topic archives
+- `articles/_article-template.html`: reusable **unpublished** article template
+- `data/articles.json`: article listing data, initially empty
+- `styles.css`, `script.js`: existing styling extended with article UI
+- `ARTICLE_WORKFLOW.md`: detailed publishing instructions
+
+## Deploy
+Upload the **contents** of this folder to the root of the existing GitHub Pages repository, preserving folder structure. Keep existing repository custom domain settings and CNAME file if one exists; this starter archive did not include a CNAME. GitHub Pages can deploy from main/root. Do not delete existing live files without reviewing them.
+
+## Next
+Plan, research, write, and review the first real article. Follow `ARTICLE_WORKFLOW.md` to publish. Check legal disclosures before affiliate monetization.

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hgrvstudios.com/sitemap.xml
