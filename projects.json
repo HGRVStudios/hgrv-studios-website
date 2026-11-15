@@ -1,5 +1,16 @@
 [
   {
+    "slug": "thanksgiving-portion-guide",
+    "title": "Thanksgiving Portion Planning Guide (Printable PDF)",
+    "summary": "A free one-page Thanksgiving portion planner to help calculate food quantities for your guest count.",
+    "category": "holiday-planners",
+    "categoryLabel": "Holiday Planning",
+    "status": "published",
+    "download": "downloads/thanksgiving-portion-planning-guide.pdf",
+    "article": "articles/thanksgiving-portion-guide.html",
+    "image": "assets/images/thanksgiving-portion-guide/article-002-photo-01.png"
+  },
+  {
     "slug": "your-first-holiday-dinner-made-easier",
     "title": "Your First Holiday Dinner, Made Easier (Printable PDF)",
     "summary": "A practical guide to planning and serving your first holiday dinner.",
