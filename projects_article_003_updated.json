@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "holiday-make-ahead-planner",
+    "title": "Holiday Make-Ahead Planner (Printable PDF)",
+    "summary": "A free four-page planner to organize dishes you can prepare ahead, reheating schedules, and holiday meal preparation.",
+    "category": "holiday-planners",
+    "categoryLabel": "Holiday Planning",
+    "status": "published",
+    "download": "downloads/holiday-make-ahead-planner.pdf",
+    "article": "articles/15-make-ahead-holiday-dishes.html",
+    "image": "assets/images/15-make-ahead-holiday-dishes/15-make-ahead-holiday-dishes-photo-01.webp"
+  },
+  {
+    "slug": "thanksgiving-portion-guide",
+    "title": "Thanksgiving Portion Planning Guide (Printable PDF)",
+    "summary": "A free one-page Thanksgiving portion planner to help calculate food quantities for your guest count.",
+    "category": "holiday-planners",
+    "categoryLabel": "Holiday Planning",
+    "status": "published",
+    "download": "downloads/thanksgiving-portion-planning-guide.pdf",
+    "article": "articles/thanksgiving-portion-guide.html",
+    "image": "assets/images/thanksgiving-portion-guide/article-002-photo-01.png"
+  },
+  {
+    "slug": "your-first-holiday-dinner-made-easier",
+    "title": "Your First Holiday Dinner, Made Easier (Printable PDF)",
+    "summary": "A practical guide to planning and serving your first holiday dinner.",
+    "category": "holiday-planners",
+    "categoryLabel": "Holiday Planning",
+    "status": "published",
+    "download": "downloads/your-first-holiday-dinner-made-easier-printable.pdf",
+    "article": "articles/your-first-holiday-dinner-made-easier.html",
+    "image": "assets/images/your-first-holiday-dinner-made-easier/your-first-holiday-dinner-made-easier-photo-01.webp"
+  },
+  {
+    "slug": "easy-oven-roasted-thanksgiving-turkey",
+    "title": "Easy Oven-Roasted Thanksgiving Turkey (Printable PDF)",
+    "summary": "A step-by-step oven-roasted Thanksgiving turkey recipe.",
+    "category": "printable-recipes",
+    "categoryLabel": "Printable Recipe",
+    "status": "published",
+    "download": "downloads/easy-oven-roasted-thanksgiving-turkey-printable.pdf",
+    "article": "articles/easy-oven-roasted-thanksgiving-turkey.html",
+    "image": "assets/images/easy-oven-roasted-thanksgiving-turkey/easy-oven-roasted-thanksgiving-turkey-photo-01.webp"
+  },
+  {
+    "slug": "creamy-homemade-mashed-potatoes",
+    "title": "Creamy Homemade Mashed Potatoes (Printable PDF)",
+    "summary": "Creamy mashed potatoes made from scratch.",
+    "category": "printable-recipes",
+    "categoryLabel": "Printable Recipe",
+    "status": "published",
+    "download": "downloads/creamy-homemade-mashed-potatoes-printable.pdf",
+    "article": "articles/creamy-homemade-mashed-potatoes.html",
+    "image": "assets/images/creamy-homemade-mashed-potatoes/creamy-homemade-mashed-potatoes-photo-01.webp"
+  },
+  {
+    "slug": "easy-homemade-turkey-gravy",
+    "title": "Easy Homemade Turkey Gravy (Printable PDF)",
+    "summary": "Homemade turkey gravy with practical step-by-step instructions.",
+    "category": "printable-recipes",
+    "categoryLabel": "Printable Recipe",
+    "status": "published",
+    "download": "downloads/easy-homemade-turkey-gravy-printable.pdf",
+    "article": "articles/easy-homemade-turkey-gravy.html",
+    "image": "assets/images/easy-homemade-turkey-gravy/easy-homemade-turkey-gravy-photo-01.webp"
+  },
+  {
+    "slug": "traditional-homemade-bread-stuffing",
+    "title": "Traditional Homemade Bread Stuffing (Printable PDF)",
+    "summary": "Traditional homemade bread stuffing for the holiday table.",
+    "category": "printable-recipes",
+    "categoryLabel": "Printable Recipe",
+    "status": "published",
+    "download": "downloads/traditional-homemade-bread-stuffing-printable.pdf",
+    "article": "articles/traditional-homemade-bread-stuffing.html",
+    "image": "assets/images/traditional-homemade-bread-stuffing/traditional-homemade-bread-stuffing-photo-01.webp"
+  },
+  {
+    "slug": "buttery-brown-sugar-glazed-carrots",
+    "title": "Buttery Brown Sugar Glazed Carrots (Printable PDF)",
+    "summary": "Buttery carrots glazed with brown sugar.",
+    "category": "printable-recipes",
+    "categoryLabel": "Printable Recipe",
+    "status": "published",
+    "download": "downloads/buttery-brown-sugar-glazed-carrots-printable.pdf",
+    "article": "articles/buttery-brown-sugar-glazed-carrots.html",
+    "image": "assets/images/buttery-brown-sugar-glazed-carrots/buttery-brown-sugar-glazed-carrots-photo-01.webp"
+  },
+  {
+    "slug": "classic-homemade-pumpkin-pie",
+    "title": "Classic Homemade Pumpkin Pie (Printable PDF)",
+    "summary": "A classic homemade pumpkin pie for the holiday table.",
+    "category": "printable-recipes",
+    "categoryLabel": "Printable Recipe",
+    "status": "published",
+    "download": "downloads/classic-homemade-pumpkin-pie-printable.pdf",
+    "article": "articles/classic-homemade-pumpkin-pie.html",
+    "image": "assets/images/classic-homemade-pumpkin-pie/classic-homemade-pumpkin-pie-photo-01.webp"
+  },
+  {
+    "slug": "holiday-dinner-planning-kit",
+    "title": "Holiday Dinner Planning Kit (PDF)",
+    "summary": "Free planning resources to organize your holiday dinner.",
+    "category": "holiday-planners",
+    "categoryLabel": "Holiday Planning",
+    "status": "published",
+    "download": "downloads/holiday-dinner-planning-kit.pdf",
+    "article": "articles/your-first-holiday-dinner-made-easier.html",
+    "image": "assets/images/your-first-holiday-dinner-made-easier/your-first-holiday-dinner-made-easier-photo-01.webp"
+  }
+]
