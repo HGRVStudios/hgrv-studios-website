@@ -1,0 +1,64 @@
+HGRV PUBLICATIONS: PRE-PUBLISH REVIEW COPY
+Not yet uploaded to GitHub.
+Source: web final.zip and hgrv-studios-website-main-back up v2.zip
+
+[
+  {
+    "page": "your-first-holiday-dinner-made-easier",
+    "images": 4,
+    "separate_file_exact_match": 4,
+    "unmatched_embedded_photo_positions": [],
+    "html_kb": 24,
+    "image_total_mb": 1.26
+  },
+  {
+    "page": "easy-oven-roasted-thanksgiving-turkey",
+    "images": 17,
+    "separate_file_exact_match": 17,
+    "unmatched_embedded_photo_positions": [],
+    "html_kb": 25,
+    "image_total_mb": 5.3
+  },
+  {
+    "page": "creamy-homemade-mashed-potatoes",
+    "images": 7,
+    "separate_file_exact_match": 7,
+    "unmatched_embedded_photo_positions": [],
+    "html_kb": 16,
+    "image_total_mb": 1.3
+  },
+  {
+    "page": "easy-homemade-turkey-gravy",
+    "images": 6,
+    "separate_file_exact_match": 6,
+    "unmatched_embedded_photo_positions": [],
+    "html_kb": 16,
+    "image_total_mb": 1.39
+  },
+  {
+    "page": "traditional-homemade-bread-stuffing",
+    "images": 10,
+    "separate_file_exact_match": 10,
+    "unmatched_embedded_photo_positions": [],
+    "html_kb": 18,
+    "image_total_mb": 2.55
+  },
+  {
+    "page": "buttery-brown-sugar-glazed-carrots",
+    "images": 6,
+    "separate_file_exact_match": 6,
+    "unmatched_embedded_photo_positions": [],
+    "html_kb": 16,
+    "image_total_mb": 1.29
+  },
+  {
+    "page": "classic-homemade-pumpkin-pie",
+    "images": 11,
+    "separate_file_exact_match": 11,
+    "unmatched_embedded_photo_positions": [],
+    "html_kb": 17,
+    "image_total_mb": 1.98
+  }
+]
+
+All editorial HTML copied from approved sources; embedded image data replaced with optimized WebP paths. Original full-resolution images remain in the source ZIP.

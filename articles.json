@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "slug": "your-first-holiday-dinner-made-easier",
+    "title": "Your First Holiday Dinner, Made Easier",
+    "summary": "A practical guide to planning and serving your first holiday dinner.",
+    "category": "kitchen",
+    "date": "2026-11-15",
+    "readTime": "Guide",
+    "status": "published",
+    "image": "assets/images/your-first-holiday-dinner-made-easier/your-first-holiday-dinner-made-easier-photo-01.webp"
+  },
+  {
+    "slug": "easy-oven-roasted-thanksgiving-turkey",
+    "title": "Easy Oven-Roasted Thanksgiving Turkey",
+    "summary": "A step-by-step oven-roasted Thanksgiving turkey recipe.",
+    "category": "recipes",
+    "date": "2026-11-15",
+    "readTime": "Recipe",
+    "status": "published",
+    "image": "assets/images/easy-oven-roasted-thanksgiving-turkey/easy-oven-roasted-thanksgiving-turkey-photo-01.webp"
+  },
+  {
+    "slug": "creamy-homemade-mashed-potatoes",
+    "title": "Creamy Homemade Mashed Potatoes",
+    "summary": "Creamy mashed potatoes made from scratch.",
+    "category": "recipes",
+    "date": "2026-11-15",
+    "readTime": "Recipe",
+    "status": "published",
+    "image": "assets/images/creamy-homemade-mashed-potatoes/creamy-homemade-mashed-potatoes-photo-01.webp"
+  },
+  {
+    "slug": "easy-homemade-turkey-gravy",
+    "title": "Easy Homemade Turkey Gravy",
+    "summary": "Homemade turkey gravy with practical step-by-step instructions.",
+    "category": "recipes",
+    "date": "2026-11-15",
+    "readTime": "Recipe",
+    "status": "published",
+    "image": "assets/images/easy-homemade-turkey-gravy/easy-homemade-turkey-gravy-photo-01.webp"
+  },
+  {
+    "slug": "traditional-homemade-bread-stuffing",
+    "title": "Traditional Homemade Bread Stuffing",
+    "summary": "Traditional homemade bread stuffing for the holiday table.",
+    "category": "recipes",
+    "date": "2026-11-15",
+    "readTime": "Recipe",
+    "status": "published",
+    "image": "assets/images/traditional-homemade-bread-stuffing/traditional-homemade-bread-stuffing-photo-01.webp"
+  },
+  {
+    "slug": "buttery-brown-sugar-glazed-carrots",
+    "title": "Buttery Brown Sugar Glazed Carrots",
+    "summary": "Buttery carrots glazed with brown sugar.",
+    "category": "recipes",
+    "date": "2026-11-15",
+    "readTime": "Recipe",
+    "status": "published",
+    "image": "assets/images/buttery-brown-sugar-glazed-carrots/buttery-brown-sugar-glazed-carrots-photo-01.webp"
+  },
+  {
+    "slug": "classic-homemade-pumpkin-pie",
+    "title": "Classic Homemade Pumpkin Pie",
+    "summary": "A classic homemade pumpkin pie for the holiday table.",
+    "category": "recipes",
+    "date": "2026-11-15",
+    "readTime": "Recipe",
+    "status": "published",
+    "image": "assets/images/classic-homemade-pumpkin-pie/classic-homemade-pumpkin-pie-photo-01.webp"
+  }
+]

@@ -1,0 +1,7 @@
+HGRV Publications local review revision 2
+- Fixed reversed arguments to renderCards, which prevented articles and recipes from rendering.
+- Fixed project download controls rendering as separate grid items. Cards link to the article (or PDF when no article link is supplied), with an inline PDF indicator.
+- Added Recipes topic card to homepage, with three-column desktop layout.
+- Removed Our Brands navigation and sitemap entry; brands.html omitted from deploy ZIP. Retain original repository backup for future restoration.
+- No recipe or article editorial content changed.
+- This is a review package, not a published deployment.
